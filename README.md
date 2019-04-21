@@ -6,7 +6,7 @@
 __modules.conf:__
 
 
-[modules].
+[modules]  
 autoload=yes
 ;
 ; ODBC SUPPORT
